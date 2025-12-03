@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello! I'm Yuri
 
-<!--
-**YuriCMarinho/YuriCMarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student exploring the world of technology, eager to learn and grow as a future professional.
 
-Here are some ideas to get you started:
+### Areas of Interest
+My primary interests lie in:
+*  **Computer Vision**
+*  **Data Analysis**
+*  **Artificial Intelligence**
+*  **Full-Stack Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mission
+My goal is to refine my skills to create **meaningful, impactful solutions that improve people's lives**.
+
+I’m always open to collaboration, learning opportunities, and projects that challenge me to grow.
+
+### Tools I use
+
+<div style="display: inline_block">
+   <img align="center" alt="C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+     <img align="center" alt="C++" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+   <img align="center" alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img align="center" alt="SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+     <img align="center" alt="Mint" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" />
+          
+---
+### Get in Touch
+* [LinkedIn](www.linkedin.com/in/yuricmarinho)
+* [Email](yuricm089@gmail.com)
