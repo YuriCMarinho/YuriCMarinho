@@ -27,4 +27,4 @@ I’m always open to collaboration, learning opportunities, and projects that ch
 ---
 ### Get in Touch
 * [LinkedIn](www.linkedin.com/in/yuricmarinho)
-* [Email](yuricm089@gmail.com)
+
