@@ -1,30 +1,59 @@
-# Hello! I'm Yuri
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hello!%20I'm%20Yuri&fontSize=40&color=gradient&animation=twinkling" />
+</p>
 
-I'm a passionate student exploring the world of technology, eager to learn and grow as a future professional.
+<p align="center">
+  <b>🚀 Enthusiastic student exploring the world of technology and always eager for the next challenge!</b>
+</p>
 
-### Areas of Interest
-My primary interests lie in:
-*  **Computer Vision**
-*  **Data Analysis**
-*  **Artificial Intelligence**
-*  **Full-Stack Development**
-
-### Mission
-My goal is to refine my skills to create **meaningful, impactful solutions that improve people's lives**.
-
-I’m always open to collaboration, learning opportunities, and projects that challenge me to grow.
-
-### Tools I use
-
-<div style="display: inline_block">
-   <img align="center" alt="C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-     <img align="center" alt="C++" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-   <img align="center" alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-   <img align="center" alt="SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-     <img align="center" alt="Mint" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" />
-          
 ---
-### Get in Touch
-* [LinkedIn](www.linkedin.com/in/yuricmarinho)
 
+## 🎯 Areas of Interest
+
+<p align="center">
+  <span style="display: inline-block; margin: 8px; padding: 10px 35px; background: #0a192f; color: #fff; border-radius: 32px; font-weight: bold; font-size: 17px; box-shadow: 0 2px 10px rgba(0,0,0,.08);">Computer Vision,</span>
+  <span style="display: inline-block; margin: 8px; padding: 10px 35px; background: #38b2ac; color: #fff; border-radius: 32px; font-weight: bold; font-size: 17px; box-shadow: 0 2px 10px rgba(0,0,0,.08);">Data Analysis,</span>
+  <span style="display: inline-block; margin: 8px; padding: 10px 35px; background: #6c63ff; color: #fff; border-radius: 32px; font-weight: bold; font-size: 17px; box-shadow: 0 2px 10px rgba(0,0,0,.08);">Artificial Intelligence,</span>
+  <span style="display: inline-block; margin: 8px; padding: 10px 35px; background: #fd7e14; color: #fff; border-radius: 32px; font-weight: bold; font-size: 17px; box-shadow: 0 2px 10px rgba(0,0,0,.08);">Full-Stack Development</span>
+</p>
+
+---
+
+## ✨ Mission
+
+<p align="center">
+  My goal is to keep improving my skills to craft <b>meaningful and impactful solutions</b> that make a difference in people's lives.
+</p>
+<p align="center">
+  I'm always open to collaboration, learning opportunities, and projects that push me to grow!
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="50"/>
+  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50"/>
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50"/>
+  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="50"/>
+  <img alt="Mint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="50"/>
+</p>
+
+---
+
+## 📫 Get in Touch
+
+<p align="center">
+  <a href="mailto:yuricm089@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yuricmarinho" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+<p align="center"><i>Thank you for visiting! Let's connect and build something amazing together.</i></p>
