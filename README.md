@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hello!%20I'm%20Yuri&fontSize=40&color=gradient&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hello!%20I'm%20Yuri&fontSize=40&color=gradient&fontColor=ffffff" />
 </p>
 
 <p align="center">
